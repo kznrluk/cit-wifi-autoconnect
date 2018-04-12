@@ -1,0 +1,26 @@
+{
+  "name": "cit-wifi-autoconnect",
+  "version": "1.0.0",
+  "description": "Auto Login to CIT Wi-Fi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kznrluk/cit-wifi-autoconnect.git"
+  },
+  "author": "K. Sasa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kznrluk/cit-wifi-autoconnect/issues"
+  },
+  "homepage": "https://github.com/kznrluk/cit-wifi-autoconnect#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "electron": "^1.8.3",
+    "node-wifi": "^2.0.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
